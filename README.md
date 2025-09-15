@@ -24,4 +24,4 @@
 
 
 
-made by ❤ by [Aryan27-max](https://github.com/Aryan27-max)
+made with ❤ by [Aryan27-max](https://github.com/Aryan27-max)
