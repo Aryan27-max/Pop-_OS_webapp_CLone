@@ -3,8 +3,6 @@
    
    ## MSA Recutment project TASK2 - cloning the Pop!_OS website
 
-   ---
- 
 # Developed USing
 
 <p align="center">
