@@ -1,7 +1,7 @@
 # Pop!_OS clone 
   
    
-   ## MSA Recutment project TASK1- cloning the Pop!_OS website
+   ## MSA Recutment project TASK2 - cloning the Pop!_OS website
 
    ---
  
